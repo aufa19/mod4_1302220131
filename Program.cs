@@ -1,7 +1,14 @@
-﻿internal class Program
+﻿using System;
+using static modul4_1302220131.KodeBuah;
+
+namespace modul4_1302220131
+
 {
-    private static void Main(string[] args)
+    class program
+    {
+         private static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
     }
+}
 }
